@@ -10,4 +10,5 @@ function draw(){
  stroke("red")   
  strokeWeight(10);
  triangle(20,75,58,20,86,75)
+ rect()
 }
