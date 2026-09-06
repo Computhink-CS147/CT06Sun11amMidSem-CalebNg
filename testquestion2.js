@@ -6,6 +6,8 @@ function setup(){
     background("gray");
 
     circle(50,50,50);
+    
+    for(let num=1; num (1); num=num+1);
 
     xpos=50;
     ypos=50;
