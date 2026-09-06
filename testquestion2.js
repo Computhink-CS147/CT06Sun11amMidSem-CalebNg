@@ -11,9 +11,9 @@ function setup(){
  circle(xpos,ypos,50);
     };
 
-    xpos=50;
-    ypos=50;
-    colorme=0
+    xpos+=50;
+    ypos+=50;
+    colorme==30;
     
 
 }
