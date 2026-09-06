@@ -1,2 +1,3 @@
-let xpos
-let 
+let xpos;
+let ypos;
+letcolor
