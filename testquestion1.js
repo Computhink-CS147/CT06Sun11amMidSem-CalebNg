@@ -8,4 +8,5 @@ function draw(){
  circle(150,200,100)
  fill("black")
  stroke("red")   
+ stroke(weight)
 }
