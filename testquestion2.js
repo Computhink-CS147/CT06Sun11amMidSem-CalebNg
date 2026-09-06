@@ -15,7 +15,8 @@ function draw(){
             xpos+=50;
             ypos+=50;
             colorme+=30;
-            fill(colourme)
+            fill(colourme);
+            
             
     };
     
