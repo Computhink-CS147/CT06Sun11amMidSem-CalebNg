@@ -1,3 +1,3 @@
 let xpos;
 let ypos;
-letcolor
+let colorme;
