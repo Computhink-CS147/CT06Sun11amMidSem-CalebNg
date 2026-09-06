@@ -6,5 +6,6 @@ function setup(){
 }
 function draw(){
  circle(150,200,100)
- fill()   
+ fill("black")
+ stroke()   
 }
