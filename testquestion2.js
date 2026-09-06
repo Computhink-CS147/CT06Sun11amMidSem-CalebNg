@@ -9,5 +9,5 @@ function setup(){
     xpos=50;
     ypos=50;
     colorme=0
-    
+
 }
