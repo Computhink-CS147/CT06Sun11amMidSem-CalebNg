@@ -1,4 +1,2 @@
-
-function setup(){
-    le
-}
+let xpos
+let 
