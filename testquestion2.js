@@ -1,5 +1,5 @@
-let xpos;
-let ypos;
+let xpos=50;
+let ypos=50;
 let colorme;
 function setup(){
     createCanvas(600,600);
