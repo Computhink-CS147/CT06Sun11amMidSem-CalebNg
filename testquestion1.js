@@ -9,6 +9,6 @@ function draw(){
  fill("black")
  stroke("red")   
  strokeWeight(10);
- triangle(50,100,100,100,75,350)
+ triangle(50,100,100,150,75,50)
  rect(400,175,75,75)
 }
