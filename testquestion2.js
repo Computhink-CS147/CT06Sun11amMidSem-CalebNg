@@ -8,7 +8,7 @@ function setup(){
 
 function draw(){
     
-    for(let num=1; num <1; num=num+1){
+    for(let num=1; num <11; num=num+1){
         circle(xpos,ypos,50);
 
             xpos+=50;
