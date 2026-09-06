@@ -4,6 +4,7 @@ let colorme=0;
 function setup(){
     createCanvas(600,600);
     background("gray")
+    fill
 }
 
 function draw(){
