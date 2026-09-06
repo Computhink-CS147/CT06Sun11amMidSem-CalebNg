@@ -4,7 +4,7 @@ let colorme=0;
 function setup(){
     createCanvas(600,600);
     background("gray")
-    Fill(num*50)
+    
 }
 
 function draw(){
