@@ -10,7 +10,7 @@ function setup(){
     xpos=50;
     ypos=50;
     colorme=0
-    for(let num=1; num (1); num=num+1)
+    for(let num=1; num (1); num=num+1);
     
 
 }
