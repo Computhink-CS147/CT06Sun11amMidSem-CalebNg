@@ -8,7 +8,7 @@ function setup(){
    
     
     for(let num=1; num <1; num=num+1){
- circle(50,50,50);
+ circle(xpos,,50);
     };
 
     xpos=50;
